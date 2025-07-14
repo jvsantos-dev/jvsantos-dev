@@ -20,9 +20,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ### Outros conhecimentos:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![PowerBI](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F09820&labelColor=0D1117)&nbsp;
-![Tableau](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F09820&labelColor=0D1117)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=0D1117)
  
 ### Estudando no momento:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F09820&labelColor=0D1117)&nbsp;

@@ -21,8 +21,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ### Outros conhecimentos:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![PowerBI](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F09820&labelColor=0D1117)&nbsp;
+![Tableau](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F09820&labelColor=0D1117)&nbsp;
  
 ### Estudando no momento:
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=F09820&labelColor=0D1117)&nbsp;
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
